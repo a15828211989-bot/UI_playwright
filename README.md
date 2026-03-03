@@ -1,4 +1,4 @@
-## UI 自动化测试框架使用说明（基于 Playwright + Pytest）1111111111
+## UI 自动化测试框架使用说明（基于 Playwright + Pytest）
 
 这是一个基于 **Playwright** 和 **Pytest** 的 Web UI 自动化测试框架，包含完整的登录 fixture 和订单流程演示，适合快速上手并在此基础上扩展自己的项目。
 
